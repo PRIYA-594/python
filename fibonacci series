@@ -8,3 +8,5 @@ def fibonacci(n,fibo={}):
 n=10
 res=fibonacci(10)
 print(res)
+output
+55
